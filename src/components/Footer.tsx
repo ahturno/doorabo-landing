@@ -78,11 +78,9 @@ export default function Footer() {
                   <EnvelopeSimple size={16} weight="fill" />
                 </span>
                 <a
-                  href="mailto:dooraboofficial@gmail.com"
+                  href="mailto:info@doorabo.com"
                   className="hover:text-[#FFD329] transition-colors break-all text-xs md:text-sm"
-                >
-                  dooraboofficial@gmail.com
-                </a>
+                >info@doorabo.com</a>
               </li>
             </ul>
           </div>
